@@ -1,0 +1,6 @@
+## Include all default syntax highlighting
+include "/usr/share/nano/*.nanorc"
+include "/usr/share/nano/extra/*.nanorc"
+
+## Include the better community syntax files
+include "/usr/share/nano-syntax-highlighting/*.nanorc"

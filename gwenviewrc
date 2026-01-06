@@ -1,0 +1,12 @@
+[General]
+LastUsedVersion=210800
+
+[MainWindow]
+MenuBar=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/cao/1.ppm
+Name1[$e]=1.ppm
+
+[SideBar]
+InformationSplitterSizes=0,0

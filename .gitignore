@@ -1,0 +1,43 @@
+# --- BROWSERS (These contain massive history/cache data) ---
+BraveSoftware/
+microsoft-edge/
+Microsoft/
+'Microsoft Teams - Preview'/
+teams/
+google-chrome/
+thorium-flags.conf
+
+# --- HEAVY APPS & CACHE (Do not upload these) ---
+Upscayl/            # Contains large AI models/images
+libreoffice/        # Contains backups and lock files
+vlc/                # Often contains art cache
+rstudio/            # Session data
+github-copilot/     # Logs and cache
+nuclei/             # Security scanner templates (lots of small files)
+yay/                # Arch User Repository build cache (HUGE)
+rstudio/
+nuclei/
+libreoffice/
+# --- DEV TOOLS & STATE ---
+go/                 # Go environment state
+flutter/            # SDK/Tool state
+nextjs-nodejs/      # Node modules/cache
+systemd/            # Often contains auto-generated session scopes
+session/            # Temporary session data
+pulse/              # Audio daemon state
+wireplumber/        # Audio daemon state
+Antigravity/
+
+# --- NESTED GIT REPOS (Fixes your original warning) ---
+nvim/pack/github/start/copilot.vim
+
+# --- STANDARD JUNK ---
+*.log
+*.tmp
+*.lock
+**/Cache/
+**/CachedData/
+# --- SECRETS & TOKENS (DO NOT REMOVE) ---
+github-copilot/
+Antigravity/
+Upscayl/

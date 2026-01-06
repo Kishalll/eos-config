@@ -1,0 +1,18 @@
+[Desktop Entry]
+FullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/code.txt
+File2[$e]=$HOME/Documents/Eth hac iitm.pdf
+File3[$e]=$HOME/tools.pdf
+File4[$e]=/run/media/gigabyte/Personal/Accademics/ViT/Sem 3/GPA.png
+File5[$e]=/run/media/gigabyte/Personal/Accademics/ViT/Sem 4/TT.jpg
+Name1[$e]=code.txt
+Name2[$e]=Eth hac iitm.pdf
+Name3[$e]=tools.pdf
+Name4[$e]=GPA.png
+Name5[$e]=TT.jpg
