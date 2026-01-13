@@ -48,8 +48,8 @@ plugin=org.kde.plasma.kickoff
 
 [Containments][2][Applets][3][Configuration]
 PreloadWeight=100
-popupHeight=508
-popupWidth=671
+popupHeight=512
+popupWidth=675
 
 [Containments][2][Applets][3][Configuration][General]
 favoritesPortedToKAstats=true
@@ -168,4 +168,4 @@ AppletOrder=3;4;5;6;7;20;21
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=
+screenMapping=desktop:/brave-pjibgclleladliembfgfagdaldikeohf-Default.desktop,0,6f1d62ec-5268-4609-a18b-e17e4a5c034a

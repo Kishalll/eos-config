@@ -6,6 +6,9 @@ Rows=1
 [Tiling]
 padding=4
 
+[Tiling][08f3c749-331f-524a-b71d-792281dfae38]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
 [Tiling][c1bda722-f98a-4668-b50c-2ffd30a4d7d3][c8e24f85-6ca7-40c0-905f-1435bbe92417]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
