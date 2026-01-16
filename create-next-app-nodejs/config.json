@@ -1,0 +1,8 @@
+{
+	"preferences": {
+		"typescript": true,
+		"linter": "eslint",
+		"eslint": true,
+		"reactCompiler": false
+	}
+}
