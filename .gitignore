@@ -18,6 +18,11 @@ yay/                # Arch User Repository build cache (HUGE)
 rstudio/
 nuclei/
 libreoffice/
+GIMP/
+Pinta/
+kmenueditrc
+kritadisplayrc
+kritarc
 # --- DEV TOOLS & STATE ---
 go/                 # Go environment state
 flutter/            # SDK/Tool state
