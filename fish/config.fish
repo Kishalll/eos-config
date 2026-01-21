@@ -28,7 +28,7 @@ if status is-interactive # Commands to run in interactive sessions can go here
     alias rmf 'rm -rf $argv[1]'
     alias cd2 'cd .. && cd ..'
     alias cd3 'cd .. && cd .. && cd ..'
-    alias nani nano
+    alias nani 'nano'
     alias update 'sudo pacman -Syu && yay -Syu'
     alias nm 'nvim'
     alias nv 'nvim'

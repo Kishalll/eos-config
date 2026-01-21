@@ -80,7 +80,7 @@
             "workspaceZoom": 1.07
         },
         "thumbnailPath": "",
-        "wallpaperPath": "/home/gigabyte/Pictures/Wallpapers/1484345-orange-desktop-wallpaper-2560x1440-for-xiaomi.jpg",
+        "wallpaperPath": "/home/gigabyte/Pictures/Wallpapers/wa.jpg",
         "widgets": {
             "clock": {
                 "cookie": {
@@ -101,7 +101,7 @@
                     "animateChange": true
                 },
                 "enable": true,
-                "placementStrategy": "leastBusy",
+                "placementStrategy": "mostBusy",
                 "quote": {
                     "enable": false,
                     "text": "hii"
@@ -109,8 +109,8 @@
                 "showOnlyWhenLocked": false,
                 "style": "digital",
                 "styleLocked": "digital",
-                "x": 328.92578125,
-                "y": 249.515625
+                "x": 190.86328125,
+                "y": 223.97265625
             },
             "weather": {
                 "enable": false,
@@ -175,8 +175,6 @@
             "alwaysShowNumbers": false,
             "monochromeIcons": false,
             "numberMap": [
-                "1",
-                "2"
             ],
             "showAppIcons": true,
             "showNumberDelay": 300,
@@ -271,7 +269,7 @@
             "extraZoom": 1.1,
             "radius": 100
         },
-        "centerClock": true,
+        "centerClock": false,
         "launchOnStartup": false,
         "materialShapeChars": true,
         "security": {
@@ -362,7 +360,7 @@
         ],
         "imageSearch": {
             "imageSearchEngineBaseUrl": "https://lens.google.com/uploadbyurl?url=",
-            "useCircleSelection": false
+            "useCircleSelection": true
         },
         "nonAppResultDelay": 30,
         "prefix": {
