@@ -33,6 +33,7 @@ if status is-interactive # Commands to run in interactive sessions can go here
     alias nm 'nvim'
     alias nv 'nvim'
     alias storage 'sudo ncdu /'
+    alias converto 'libreoffice --headless --convert-to'
 
 
 function binc

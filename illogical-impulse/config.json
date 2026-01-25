@@ -256,8 +256,8 @@
             "enable": false
         },
         "night": {
-            "automatic": false,
-            "colorTemperature": 5000,
+            "automatic": true,
+            "colorTemperature": 4358,
             "from": "19:00",
             "to": "06:30"
         }
@@ -443,7 +443,7 @@
     },
     "sounds": {
         "battery": true,
-        "pomodoro": false,
+        "pomodoro": true,
         "theme": "freedesktop"
     },
     "time": {
@@ -456,7 +456,7 @@
             "focus": 1500,
             "longBreak": 900
         },
-        "secondPrecision": false,
+        "secondPrecision": true,
         "shortDateFormat": "dd/MM"
     },
     "tray": {
