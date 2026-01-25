@@ -23,6 +23,7 @@ Pinta/
 kmenueditrc
 kritadisplayrc
 kritarc
+Todoist/
 # --- DEV TOOLS & STATE ---
 go/                 # Go environment state
 flutter/            # SDK/Tool state
