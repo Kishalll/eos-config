@@ -34,7 +34,7 @@ if status is-interactive # Commands to run in interactive sessions can go here
     alias nv 'nvim'
     alias storage 'sudo ncdu /'
     alias converto 'libreoffice --headless --convert-to'
-
+    alias cd1 'cd ..'
 
 function binc
     brightnessctl set $argv[1]%+ >/dev/null 2>&1

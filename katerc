@@ -12,6 +12,7 @@ Show Tab Bar=true
 Show Url Nav Bar=true
 
 [MainWindow]
+1536x960 screen: Window-Maximized=true
 1600x1000 screen: Window-Maximized=true
 1920x1200 screen: Window-Maximized=true
 
