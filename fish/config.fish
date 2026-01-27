@@ -35,6 +35,8 @@ if status is-interactive # Commands to run in interactive sessions can go here
     alias storage 'sudo ncdu /'
     alias converto 'libreoffice --headless --convert-to'
     alias cd1 'cd ..'
+    alias convertod 'libreoffice --headless --infilter="writer_pdf_import" --convert-to'
+    #alias sudo nv 'sudo nvim'
 
 function binc
     brightnessctl set $argv[1]%+ >/dev/null 2>&1
